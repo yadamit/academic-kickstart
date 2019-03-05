@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2016-04-20T00:00:00
+date = 2018-07-20T00:00:00
 
 # Order that this section will appear in.
 weight = 5
@@ -10,31 +10,28 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Reinforcement Learning",
+    "Natural Language Processing",
+    "Robotics"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "B.Tech Computer Science"
+  institution = "Indian Institute of Technology, Kanpur"
+  year = 2020
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Senior Secondary"
+  institution = "Rao Pahlad Singh Sr. Sec. School, Khatod"
+  year = 2016
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
+
+
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a third year Undergraduate, majoring Computer Science and Engineering at Indian Institute of Technology, Kanpur. I am seriously not interested in any of the courses (>\_<) I just wish to get out of this fu**in college life and start my small own buisness (tea stall ? suggestions are welcome).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My hobbies include skating, Ultimate (frisbee) and I am a big fan of classical Indian instrumental music (no, I don't how to play any :-).
